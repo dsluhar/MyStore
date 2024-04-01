@@ -1,0 +1,13 @@
+{
+  "theme": "DARK",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": false,
+  "offlineMode": true,
+  "thumbnailForBase64": false,
+  "documentTitle": "Automation Report with JSON",
+  "reportName": "Smoke Test",
+  "timeStampFormat": "dd MMM, yyyy HH:mm:ss a",
+  "js": "",
+  "css": ""
+}
